@@ -53,7 +53,7 @@
 
 16. [Machine Learning](https://github.com/mikeroyal/Unreal-Engine-Guide#machine-learning)
 
-17. [Deep Learning](https://github.com/mikeroyal/Unity-Guide#deep-learning)
+17. [Deep Learning](https://github.com/mikeroyal/Unreal-Engine-Guide#deep-learning)
 
 18. [CUDA Development](https://github.com/mikeroyal/Unreal-Engine-Guide#cuda-development)
 
