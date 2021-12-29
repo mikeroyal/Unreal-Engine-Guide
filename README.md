@@ -105,15 +105,17 @@
 
 [Bridgew by Quixel](https://www.unrealengine.com/en-US/bridge) is a gateway to create a world of 3D content right inside the Unreal Engine. it includes Megascans—the world's largest library of AAA, cinema-quality assets based on real-world scan data.
 
+[Lumen](https://docs.unrealengine.com/5.0/en-US/RenderingFeatures/Lumen/TechOverview/) is an Unreal Engine 5 feature that uses multiple ray tracing methods to solve Global Illumination and Reflections. Screen traces are done first, followed by a more reliable method. It uses Software Ray Tracing through Signed Distance Fields by default, but can achieve higher quality on supporting video cards when Hardware Ray Tracing is enabled.
+
+[Nanite](https://docs.unrealengine.com/5.0/en-US/RenderingFeatures/Nanite/) is Unreal Engine 5's new virtualized geometry system which uses a new internal mesh format and rendering technology to render pixel scale detail and high object counts. It intelligently does work on only the detail that can be perceived and no more.
+
 [Unreal Engine Marketplace](https://unrealengine.com/marketplace/en-US/store) is Unreal Engine's Store that has a library Of Textures, Models, Animations, Tutorials, and More for creating amazing 3D projects and games.
 
 [UnrealBuildTool (UBT)](https://docs.unrealengine.com/4.27/en-US/ProductionPipelines/BuildTools/UnrealBuildTool) is a tool that manages the process of building UE4 source code across a variety of build configurations.
 
 [UnrealHeaderTool (UHT)](https://docs.unrealengine.com/4.27/en-US/ProductionPipelines/BuildTools/UnrealHeaderTool) is a custom parsing and code-generation tool supporting the UObject system.
 
-
 [Unreal Online Learning](https://www.unrealengine.com/en-US/onlinelearning-courses) is a free learning platform that offers hands-on video courses and guided learning paths.
-
 
 [AutomationTool](https://docs.unrealengine.com/4.27/en-US/ProductionPipelines/BuildTools/AutomationTool) is a generic system used to automate processes, including testing and building games.
 
@@ -122,6 +124,8 @@
 [Replay System](https://docs.unrealengine.com/4.27/en-US/TestingAndOptimization/ReplaySystem/) is a tool which can record gameplay for later viewing. This feature is available in all games, from live, multiplayer games played on dedicated servers, to single-player games, and even including Play-In-Editor sessions. At a high level, the Replay system works by using a DemoNetDriver to read data drawn from the built-in replication system, similar to how a NetDriver operates in a live, networked gameplay environment.
 
 ## Unreal Engine Learning Resources
+
+[How to migrate your Unreal Engine 4 projects to Unreal Engine 5 Early Access quickly and smoothly](https://docs.unrealengine.com/5.0/en-US/MigrationGuide/)
 
 [Unreal Engine Documentation](https://docs.unrealengine.com/en-US/)
 
