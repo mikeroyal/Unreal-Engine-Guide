@@ -99,6 +99,20 @@
 
 [Datasmith](https://www.unrealengine.com/en-US/datasmith) is a collection of tools and plugins that bring entire pre-constructed scenes and complex assets created in a variety of industry-standard design applications into Unreal Engine.
 
+[Chaos Physics](https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/Physics/ChaosPhysics/Overview/) is a Beta feature that is the light-weight physics simulation solution used in Fortnite, and it includes the following major features.
+
+   - RBAN (Rigid Body Animation Nodes)
+
+   - Destruction
+
+   - Cloth
+
+   - Ragdoll
+
+   - Vehicles
+
+[Niagara VFX System](https://docs.unrealengine.com/4.27/en-US/RenderingAndGraphics/Niagara/) is one of two tools you can use to create and adjust visual effects (VFX) inside Unreal Engine 4 (UE4). Before Niagara, the primary way to create and edit visual effects in UE4 was to use [Cascade](https://docs.unrealengine.com/4.27/en-US/RenderingAndGraphics/ParticleSystems). It has many of the same of particle manipulation methods that Cascade offers, the way you interact and build visual effects with Niagara is vastly different.
+
 [MetaHuman Creator](https://www.unrealengine.com/en-US/metahuman-creator) is a free cloud-based app that empowers anyone to create photorealistic digital humans, complete with hair and clothing, in minutes. MetaHumans come fully rigged and ready to animate in your Unreal Engine projects.
 
 [Twinmotion](https://www.twinmotion.com/en-US) is a real-time 3D immersion software that produces high-quality images, panoramas and standard or 360° VR videos in seconds. Developed for architecture, construction, urban planning and landscaping professionals.
