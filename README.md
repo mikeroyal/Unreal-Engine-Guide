@@ -4,7 +4,7 @@
   Unreal Engine Guide
 </h1>
 
-#### A guide covering Unreal Engine including the applications, libraries and tools that will make you a better and more efficient Unreal Engine developmer.
+#### A guide covering Unreal Engine including the applications, libraries and tools that will make you a better and more efficient Unreal Engine developer.
 
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
