@@ -1,15 +1,15 @@
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/146693067-3b7e36f9-efec-4759-9434-713f13155723.png">
+ <img src="https://user-images.githubusercontent.com/45159366/162537763-308611ef-a619-4fcd-99bf-bfe328c50f27.png">
   <br />
   Unreal Engine Guide
 </h1>
 
-#### A guide covering Unreal Engine including the applications, libraries and tools that will make you a better and more efficient Unreal Engine development.
+#### A guide covering Unreal Engine including the applications, libraries and tools that will make you a better and more efficient Unreal Engine developmer.
 
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/146693078-5198a712-a3dc-4572-bbc7-bf005280e580.png">
+ <img src="https://user-images.githubusercontent.com/45159366/162537753-7c37a7a9-6513-49a6-848e-75784119a587.png">
   <br />
 </p>
 
@@ -72,12 +72,12 @@
 # Getting Started with Unreal Engine
 [Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents)
 
-[Unreal Engine](https://www.unrealengine.com) is a game engine developed by Epic Games with the world's most open and advanced real-time 3D creation tool. Continuously evolving to serve not only its original purpose as a state-of-the-art game engine, today it gives creators across industries the freedom and control to deliver cutting-edge content, interactive experiences, and immersive virtual worlds. Get early access to [Unreal Engine 5](https://www.unrealengine.com/unreal-engine-5).
+[Unreal Engine](https://www.unrealengine.com/unreal-engine-5) is a game engine developed by Epic Games with the world's most open and advanced real-time 3D creation tool. Continuously evolving to serve not only its original purpose as a state-of-the-art game engine, today it gives creators across industries the freedom and control to deliver cutting-edge content, interactive experiences, and immersive virtual worlds. 
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/104788122-37c64500-5746-11eb-8f61-48a69b94582d.png">
+ <img src="https://user-images.githubusercontent.com/45159366/162538256-a3390573-88b8-4925-a92e-70a56da951b3.png">
   <br />
-  Unreal Engine
+  Unreal Engine 5 with Big City Sample Project
 </p>
 
 <p align="center">
@@ -99,7 +99,7 @@
 
 [Datasmith](https://www.unrealengine.com/en-US/datasmith) is a collection of tools and plugins that bring entire pre-constructed scenes and complex assets created in a variety of industry-standard design applications into Unreal Engine.
 
-[Chaos Physics](https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/Physics/ChaosPhysics/Overview/) is a Beta feature that is the light-weight physics simulation solution used in Fortnite, and it includes the following major features.
+[Chaos Physics](https://docs.unrealengine.com/5.0/en-US/InteractiveExperiences/Physics/ChaosPhysics/Overview/) is a Beta feature that is the light-weight physics simulation solution used in Fortnite, and it includes the following major features.
 
    - RBAN (Rigid Body Animation Nodes)
 
@@ -111,7 +111,7 @@
 
    - Vehicles
 
-[Niagara VFX System](https://docs.unrealengine.com/4.27/en-US/RenderingAndGraphics/Niagara/) is one of two tools you can use to create and adjust visual effects (VFX) inside Unreal Engine 4 (UE4). Before Niagara, the primary way to create and edit visual effects in UE4 was to use [Cascade](https://docs.unrealengine.com/4.27/en-US/RenderingAndGraphics/ParticleSystems). It has many of the same of particle manipulation methods that Cascade offers, the way you interact and build visual effects with Niagara is vastly different.
+[Niagara VFX System](https://docs.unrealengine.com/5.0/en-US/RenderingAndGraphics/Niagara/) is one of two tools you can use to create and adjust visual effects (VFX) inside Unreal Engine 5 (UE5). Before Niagara, the primary way to create and edit visual effects in UE4 was to use [Cascade](https://docs.unrealengine.com/4.27/en-US/RenderingAndGraphics/ParticleSystems). It has many of the same of particle manipulation methods that Cascade offers, the way you interact and build visual effects with Niagara is vastly different.
 
 [MetaHuman Creator](https://www.unrealengine.com/en-US/metahuman-creator) is a free cloud-based app that empowers anyone to create photorealistic digital humans, complete with hair and clothing, in minutes. MetaHumans come fully rigged and ready to animate in your Unreal Engine projects.
 
@@ -125,61 +125,81 @@
 
 [Unreal Engine Marketplace](https://unrealengine.com/marketplace/en-US/store) is Unreal Engine's Store that has a library Of Textures, Models, Animations, Tutorials, and More for creating amazing 3D projects and games.
 
-[UnrealBuildTool (UBT)](https://docs.unrealengine.com/4.27/en-US/ProductionPipelines/BuildTools/UnrealBuildTool) is a tool that manages the process of building UE4 source code across a variety of build configurations.
+[UnrealBuildTool (UBT)](https://docs.unrealengine.com/5.0/en-US/ProductionPipelines/BuildTools/UnrealBuildTool) is a tool that manages the process of building UE4 source code across a variety of build configurations.
 
-[UnrealHeaderTool (UHT)](https://docs.unrealengine.com/4.27/en-US/ProductionPipelines/BuildTools/UnrealHeaderTool) is a custom parsing and code-generation tool supporting the UObject system.
-
-[Unreal Online Learning](https://www.unrealengine.com/en-US/onlinelearning-courses) is a free learning platform that offers hands-on video courses and guided learning paths.
+[UnrealHeaderTool (UHT)](https://docs.unrealengine.com/5.0/en-US/ProductionPipelines/BuildTools/UnrealHeaderTool) is a custom parsing and code-generation tool supporting the UObject system.
 
 [AutomationTool](https://docs.unrealengine.com/4.27/en-US/ProductionPipelines/BuildTools/AutomationTool) is a generic system used to automate processes, including testing and building games.
 
-[Proxy Geometry Tool](https://docs.unrealengine.com/4.27/en-US/TestingAndOptimization/ProxyGeoTool/) is a tool-set that was developed as a way to increase your Unreal Engine 4 (UE4) project's performance while keeping the visual quality of your project uneffected.
+[Proxy Geometry Tool](https://docs.unrealengine.com/5.0/en-US/TestingAndOptimization/ProxyGeoTool/) is a tool-set that was developed as a way to increase your Unreal Engine 4 (UE4) project's performance while keeping the visual quality of your project uneffected.
 
-[Replay System](https://docs.unrealengine.com/4.27/en-US/TestingAndOptimization/ReplaySystem/) is a tool which can record gameplay for later viewing. This feature is available in all games, from live, multiplayer games played on dedicated servers, to single-player games, and even including Play-In-Editor sessions. At a high level, the Replay system works by using a DemoNetDriver to read data drawn from the built-in replication system, similar to how a NetDriver operates in a live, networked gameplay environment.
+[Replay System](https://docs.unrealengine.com/5.0/en-US/TestingAndOptimization/ReplaySystem/) is a tool which can record gameplay for later viewing. This feature is available in all games, from live, multiplayer games played on dedicated servers, to single-player games, and even including Play-In-Editor sessions. At a high level, the Replay system works by using a DemoNetDriver to read data drawn from the built-in replication system, similar to how a NetDriver operates in a live, networked gameplay environment.
 
 ## Unreal Engine Learning Resources
 
 [How to migrate your Unreal Engine 4 projects to Unreal Engine 5 Early Access quickly and smoothly](https://docs.unrealengine.com/5.0/en-US/MigrationGuide/)
 
-[Unreal Engine Documentation](https://docs.unrealengine.com/en-US/)
+[Unreal Engine 5 Documentation](https://docs.unrealengine.com/5.0/)
 
 [Unreal Engine Forums](https://forums.unrealengine.com/)
 
-[Setting Up Visual Studio for Unreal Engine](https://docs.unrealengine.com/en-us/Programming/Development/VisualStudioSetup)
+### Developer Resources
 
-[Unreal Engine Performance and Profiling](https://docs.unrealengine.com/4.27/en-US/TestingAndOptimization/PerformanceAndProfiling/)
+ - [Setting Up Visual Studio for Unreal Engine](https://docs.unrealengine.com/en-us/Programming/Development/VisualStudioSetup)
 
-[Unreal Engine C++ API Reference](https://docs.unrealengine.com/4.27/en-US/API/index.html)
+ - [Unreal Engine Performance and Profiling](https://docs.unrealengine.com/5.0/en-US/TestingAndOptimization/PerformanceAndProfiling/)
 
-[Unreal Engine Blueprint API Reference](https://docs.unrealengine.com/4.27/en-US/BlueprintAPI/index.html)
+ - [Unreal Engine C++ API Reference](https://docs.unrealengine.com/5.0/en-US/API/index.html)
 
-[Unreal Engine Python API Reference](https://docs.unrealengine.com/4.27/en-US/PythonAPI/index.html)
+ - [Unreal Engine Blueprint API Reference](https://docs.unrealengine.com/5.0/en-US/BlueprintAPI/index.html)
 
-[Unreal Engine Authorized Training Program](https://www.unrealengine.com/en-US/training-partners)
+ - [Unreal Engine Python API Reference](https://docs.unrealengine.com/5.0/en-US/PythonAPI/index.html)
+ 
+ - [Unreal Engine | NVIDIA Developer](https://developer.nvidia.com/unrealengine)
 
-[Unreal Engine for education](https://www.unrealengine.com/en-US/education/)
+ - [Autodesk for Games](https://www.autodesk.com/campaigns/autodesk-for-games)
 
-[Unreal Engine Training & Simulation](https://www.unrealengine.com/en-US/industry/training-simulation)
+ - [Getting Started with DirectX 12 Ultimate](https://devblogs.microsoft.com/directx/directx-12-ultimate-getting-started-guide/)
 
-[Unreal Engine | NVIDIA Developer](https://developer.nvidia.com/unrealengine)
+ - [Getting Started with Vulkan](https://www.khronos.org/vulkan/)
 
-[Autodesk for Games](https://www.autodesk.com/campaigns/autodesk-for-games)
+ - [Getting Started with Apple Metal](https://developer.apple.com/metal/)
 
-[Getting Started with DirectX 12 Ultimate](https://devblogs.microsoft.com/directx/directx-12-ultimate-getting-started-guide/)
+### Unreal Engine 5 Training and Online Courses 
 
-[Getting Started with Vulkan](https://www.khronos.org/vulkan/)
+ - [Unreal Online Learning](https://www.unrealengine.com/en-US/onlinelearning-courses) is a free learning platform that offers hands-on video courses and guided learning paths.
+ 
+ - [Unreal Engine Authorized Training Program](https://www.unrealengine.com/en-US/training-partners) 
 
-[Getting Started with Apple Metal](https://developer.apple.com/metal/)
+ - [Unreal Engine for education](https://www.unrealengine.com/en-US/education/)
 
-[Game Design Online Courses from Udemy](https://www.udemy.com/courses/Design/Game-Design/)
+ - [Unreal Engine Training & Simulation](https://www.unrealengine.com/en-US/industry/training-simulation)
 
-[Game Design Online Courses from Skillshare](https://www.skillshare.com/browse/game-design)
+ - [Unreal Engine 5 (UE5): Complete Beginners Course | Udemy](https://www.udemy.com/course/unreal-engine-course/)
 
-[Learn Game Design with Online Courses and Classes from edX](https://www.edx.org/learn/game-design)
+ - [Unreal Engine 5 (UE5): Beginner's Course | Skillshare ](https://www.skillshare.com/classes/Unreal-Engine-5-UE5-The-Complete-Beginners-Course/1124349680)
 
-[Game Design Courses from Coursera](https://www.coursera.org/courses?query=game%20design)
+ - [Unreal Engine 5 Crash Course with Blueprint by Beau Carnes](https://www.freecodecamp.org/news/unreal-engine-5-crash-course-with-blueprint/)
 
-[Game Design and Development Specialization Course from Coursera](https://www.coursera.org/specializations/game-development)
+ - [Modeling a Castle in Unreal Engine 5 Tutorial](https://unf-vault.teachable.com/p/modeling-in-unreal-engine-5)
+
+ - [Introduction to Blueprints in Unreal Engine 5 Tutorial](https://unf-vault.teachable.com/p/introduction-to-blueprints-for-beginners-in-unreal-engine-5)
+
+ - [Learning Chaos Destruction in Unreal Engine 5 Tutorial](https://unf-vault.teachable.com/p/introduction-to-chaos-destruction-in-unreal-engine-5-for-beginners)
+
+ - [Learning to create Landscapes in Unreal Engine 5 Tutorial](https://unf-vault.teachable.com/p/open-worlds-in-unreal-engine-5-complete-landscape-guide-for-beginners)
+
+ - [Unreal Engine 5 Master Class Course](https://gamedev.gg/courses/unreal-master-class/)
+
+ - [Game Design Online Courses from Udemy](https://www.udemy.com/courses/Design/Game-Design/)
+
+ - [Game Design Online Courses from Skillshare](https://www.skillshare.com/browse/game-design)
+
+ - [Learn Game Design with Online Courses and Classes from edX](https://www.edx.org/learn/game-design)
+
+ - [Game Design Courses from Coursera](https://www.coursera.org/courses?query=game%20design)
+
+ - [Game Design and Development Specialization Course from Coursera](https://www.coursera.org/specializations/game-development)
 
 # VS Code Development
 [Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents)
