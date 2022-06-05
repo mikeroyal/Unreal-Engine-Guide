@@ -20,6 +20,14 @@
     - [Unreal Engine Tools](https://github.com/mikeroyal/Unreal-Engine-Guide#unreal-engine-tools)
 
     - [Unreal Engine Learning Resources](https://github.com/mikeroyal/Unreal-Engine-Guide#unreal-engine-learning-resources)
+    
+    - [Xbox](https://github.com/mikeroyal/Game-Console-Dev-Guide#xbox-development)
+      
+    - [PlayStation](https://github.com/mikeroyal/Game-Console-Dev-Guide#playstation-development)
+      
+    - [Nintendo Switch](https://github.com/mikeroyal/Game-Console-Dev-Guide#nintendo-switch-development)
+      
+    - [Steam Deck](https://github.com/mikeroyal/Game-Console-Dev-Guide#steam-deck-development)
 
 2. [VS Code Development](https://github.com/mikeroyal/Unreal-Engine-Guide#vs-code-development)
 
@@ -165,7 +173,7 @@
 
  - [Getting Started with Apple Metal](https://developer.apple.com/metal/)
 
-### Unreal Engine 5 Training and Online Courses 
+### Unreal Engine 5 Training & Online Courses 
 
  - [Unreal Online Learning](https://www.unrealengine.com/en-US/onlinelearning-courses) is a free learning platform that offers hands-on video courses and guided learning paths.
  
@@ -200,6 +208,153 @@
  - [Game Design Courses from Coursera](https://www.coursera.org/courses?query=game%20design)
 
  - [Game Design and Development Specialization Course from Coursera](https://www.coursera.org/specializations/game-development)
+ 
+    
+      
+## Xbox Development
+[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents)
+
+   **Quick links to Development Resources**
+
+ - [Developing Games | Xbox and Windows](https://www.xbox.com/en-US/developers)
+ 
+ - [Xbox Creators Program](https://www.xbox.com/en-US/developers/creators-program)
+ 
+ - [ID@Xbox Program](https://www.xbox.com/en-US/developers/id)
+ 
+ - [Xbox game development - Game Stack | Microsoft Docs](https://docs.microsoft.com/en-us/gaming/xbox/)
+ 
+ - [Get Xbox Dev Mode - Microsoft Store](https://www.microsoft.com/en-us/p/xbox-dev-mode/9nljhzjrn0f4)
+ 
+ - [Multi-platform development - Unreal Engine](https://www.unrealengine.com/en-US/features/multi-platform-development)
+ 
+ - [Tips for developing console games (Xbox, PlayStation, Nintendo)](https://unity.com/how-to/develop-console-video-games-unity)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/158109359-bef5dfd3-6c38-4cb0-8a48-ba2145c670fb.png">
+  <br />
+  Xbox Series X
+</p>
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/158109363-670074b5-4261-41ca-b02d-c1f99971db76.png">
+  <br />
+  Xbox Series S
+</p>
+      
+## PlayStation Development
+[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents)
+
+  **Quick links to Development Resources**
+
+  - [PlayStation® Partners Program](https://partners.playstation.net/)
+  
+  - [PlayStation® Studios | PlayStation (US)](https://www.playstation.com/en-us/corporate/playstation-studios/)
+  
+  - [PlayStation Support](https://www.playstation.com/en-us/support/?smcid=pdc%3Aen-us%3Acorporate-playstation-and-the-environment-community%3Aprimary%20nav%3Amsg-support%3Asupport)
+  
+  - [PlayStation® Plus](https://www.playstation.com/en-us/ps-plus/?smcid=pdc%3Aen-us%3Acorporate-playstation-and-the-environment-community%3Aprimary%20nav%3Amsg-services%3Aps-plus)
+  
+  - [PS Now](https://www.playstation.com/en-us/ps-now/?smcid=pdc%3Aen-us%3Acorporate-playstation-and-the-environment-community%3Aprimary%20nav%3Amsg-services%3Aps-now)
+  
+  - [Multi-platform development - Unreal Engine](https://www.unrealengine.com/en-US/features/multi-platform-development)
+  
+  - [Creating games for Playstation | Unity](https://unity.com/solutions/playstation)
+  
+  - [Tips for developing console games (Xbox, PlayStation, Nintendo)](https://unity.com/how-to/develop-console-video-games-unity)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/158109372-7e1dac0a-8df3-4867-a36e-7080e21014a7.png">
+  <br />
+  PlayStation 5
+</p>
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/158109375-f189109a-ccf6-47fc-a543-7d1831c3f970.png">
+  <br />
+  PlayStation 4
+</p>
+
+[PlayStation® VR Headset](https://www.playstation.com/en-us/ps-vr/) is a virtual reality headset developed by Sony Interactive Entertainment. It gives the user an amazing gaming experience with stunning High Dynamic Range visuals and up to 120fps, as two 1920 x 1080 OLED displays deliver a vast 100º field of view. PSVR is fully functional with the PlayStation 4™ and is forward compatible with the PlayStation 5™ home video game console. 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/117720763-e9750000-b193-11eb-888a-e4bccd6c30eb.png">
+<br />
+</p>
+
+PlayStation VR Headset. Source: [PlayStation](https://www.playstation.com/en-us/ps-vr/)
+
+[PlayStation®VR2](https://www.playstation.com/en-us/ps-vr2/) is the next generation of virtual reality gaming by PlayStation. It gives the user an amazing gaming experience with new stunning 4K High Dynamic Range visuals and up to 120fps, as two 2000 x 2040 OLED displays deliver over four times the resolution generated by the original PlayStation®VR headset. A vast 110º field of view and a light, well-balanced Fresnel lens. The lens adjustment dial allows you to customize spacing between lenses to match your eye position for an optimal onscreen image. Along with ground-breaking new controllers and genre-defining games, all made possible by the power of PS5™.
+
+<p align="center">
+  <img alt="[psvr2" src="https://user-images.githubusercontent.com/45159366/156683318-6811ecf8-a8f2-4652-8872-f669cf38b459.png">
+</p>
+
+PlayStation VR 2 Headset. Source: [PlayStation](https://www.playstation.com/en-us/ps-vr2/)
+      
+## Nintendo Switch Development
+[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents)
+
+  **Quick links to Development Resources**
+
+  - [Nintendo Developer Portal](https://developer.nintendo.com/)
+  
+  - [Nintendo Developer Tools/ Middleware](https://developer.nintendo.com/tools)
+  
+  - [Multi-platform development - Unreal Engine](https://www.unrealengine.com/en-US/features/multi-platform-development)
+  
+  - [Tips for developing console games (Xbox, PlayStation, Nintendo)](https://unity.com/how-to/develop-console-video-games-unity)
+  
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/158109381-493efc29-3da2-4db8-b772-43cb3ca1f97a.png">
+  <br />
+  Nintendo Switch
+</p>
+
+## Steam Deck Development
+[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents)
+  
+  **Quick links to Development Resources**
+
+  - [Getting your game ready for Steam Deck](https://partner.steamgames.com/doc/steamdeck/recommendations)
+
+  - [Developing for Steam Deck without a Dev-Kit](https://partner.steamgames.com/doc/steamdeck/testing)
+
+  - [Steam Deck Developer Kits](https://partner.steamgames.com/doc/steamdeck/devkits)
+
+  - [Steam Deck and Proton](https://partner.steamgames.com/doc/steamdeck/proton)
+
+  - [Steam Deck Developer Forums](https://steamcommunity.com/groups/steamworks/discussions/27/)
+  
+  - [Multi-platform development - Unreal Engine](https://www.unrealengine.com/en-US/features/multi-platform-development)
+
+  - [Tips for developing console games (Xbox, PlayStation, Nintendo)](https://unity.com/how-to/develop-console-video-games-unity)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/158109383-57188374-6632-4ef2-ae58-1d66351b0fa8.png">
+  <br />
+  Steam Deck
+</p>
+
+[Steamworks](https://partner.steamgames.com/doc/home) is a free suite of tools available to any developer to use in their game or software on Steam and the Steam Deck.
+
+[Steam Hardware GitLab Repo](https://gitlab.steamos.cloud/SteamDeck/hardware) is a repository that contains CAD files for the external shell (surface topology) of Steam Deck, under a Creative Commons license. This includes an STP model, STL model, and drawings (DWG) for reference.
+
+[Dynamic Cloud Sync](https://steamcommunity.com/groups/steamworks/announcements/detail/3142949576401813670) is a tool that Steam will use  to automatically upload all modified save game data to the cloud prior to the device entering sleep mode. Users can then resume their game on any PC, laptop or other device. Steam will also automatically download any save game changes when users return to their Steam Deck and wake up the device.
+
+[Steam Cloud](https://partner.steamgames.com/doc/features/cloud) is a tool that provides an easy and transparent remote file storage system for your game. Files specified in the Auto-Cloud configuration or written to disk (created, modified, deleted, etc.) using the Cloud API will automatically be replicated to the Steam servers after the game exits. If the user changes computers, the files are automatically downloaded to the new computer prior to the game launching. The game can then access the files by reading them through the Cloud API or reading them directly from disk as usual. Avoid machine specific configurations such as video settings.
+
+[Gamescope](https://github.com/Plagman/gamescope) is a SteamOS session micro-compositing window manager formerly known as [steamcompmgr](https://github.com/ValveSoftware/steamos-compositor).
+
+[AMD FidelityFX Super Resolution (FSR)](https://www.amd.com/en/technologies/radeon-software-fidelityfx) is an open source, high-quality solution for producing high resolution frames from lower resolution inputs. It enables “practical performance” for costly render operations, such as hardware ray tracing for the AMD RDNA™ and AMD RDNA™ 2 architectures.
+
+[MangoHud](https://github.com/flightlessmango/MangoHud) is a Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
+
+[GOverlay](https://github.com/benjamimgois/goverlay) is an open source project aimed to create a Graphical UI to manage Vulkan/OpenGL overlays. It is still in early development.
+
+[ReplaySorcery](https://github.com/matanui159/ReplaySorcery) is an open-source, instant-replay solution for Linux.
+
+[Deck Verified](https://www.steamdeck.com/en/verified) is a program that reviews games in Steam's catalog verifying their compatibility with the Steam Deck. So when you visit your Library on Steam Deck, you’ll find a compatibility badge on each title, reflecting the kind of experience you can expect when playing each game on Steam Deck.
 
 # VS Code Development
 [Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents)
