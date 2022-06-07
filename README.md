@@ -21,13 +21,13 @@
 
     - [Unreal Engine Learning Resources](https://github.com/mikeroyal/Unreal-Engine-Guide#unreal-engine-learning-resources)
     
-    - [Xbox](https://github.com/mikeroyal/Game-Console-Dev-Guide#xbox-development)
+    - [Xbox](https://github.com/mikeroyal/Unreal-Engine-Guide#xbox-development)
       
-    - [PlayStation](https://github.com/mikeroyal/Game-Console-Dev-Guide#playstation-development)
+    - [PlayStation](https://github.com/mikeroyal/Unreal-Engine-Guide#playstation-development)
       
-    - [Nintendo Switch](https://github.com/mikeroyal/Game-Console-Dev-Guide#nintendo-switch-development)
+    - [Nintendo Switch](https://github.com/mikeroyal/GUnreal-Engine-Guide#nintendo-switch-development)
       
-    - [Steam Deck](https://github.com/mikeroyal/Game-Console-Dev-Guide#steam-deck-development)
+    - [Steam Deck](https://github.com/mikeroyal/Unreal-Engine-Guide#steam-deck-development)
 
 2. [VS Code Development](https://github.com/mikeroyal/Unreal-Engine-Guide#vs-code-development)
 
