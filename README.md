@@ -25,7 +25,7 @@
       
     - [PlayStation](https://github.com/mikeroyal/Unreal-Engine-Guide#playstation-development)
       
-    - [Nintendo Switch](https://github.com/mikeroyal/GUnreal-Engine-Guide#nintendo-switch-development)
+    - [Nintendo Switch](https://github.com/mikeroyal/Unreal-Engine-Guide#nintendo-switch-development)
       
     - [Steam Deck](https://github.com/mikeroyal/Unreal-Engine-Guide#steam-deck-development)
 
