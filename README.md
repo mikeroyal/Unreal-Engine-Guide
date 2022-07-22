@@ -29,8 +29,9 @@
       
     - [Steam Deck](https://github.com/mikeroyal/Unreal-Engine-Guide#steam-deck-development)
 
-2. [VS Code Development](https://github.com/mikeroyal/Unreal-Engine-Guide#vs-code-development)
+2. [Visual Studio and VSCode](#visual-studio-and-vscode)
 
+    - [Visual Studio Extensions for Developer Productivity](https://github.com/mikeroyal/Unreal-Engine-Guide#Visual-Studio-Extensions-for-Developer-Productivity)
     - [VS Code Extensions for Developer Productivity](https://github.com/mikeroyal/Unreal-Engine-Guide#VS-Code-Extensions-for-Developer-Productivity)
 
 3. [Xcode Development](https://github.com/mikeroyal/Unreal-Engine-Guide#xcode-development)
@@ -209,8 +210,6 @@
 
  - [Game Design and Development Specialization Course from Coursera](https://www.coursera.org/specializations/game-development)
  
-    
-      
 ## Xbox Development
 [Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents)
 
@@ -356,14 +355,45 @@ PlayStation VR 2 Headset. Source: [PlayStation](https://www.playstation.com/en-u
 
 [Deck Verified](https://www.steamdeck.com/en/verified) is a program that reviews games in Steam's catalog verifying their compatibility with the Steam Deck. So when you visit your Library on Steam Deck, you’ll find a compatibility badge on each title, reflecting the kind of experience you can expect when playing each game on Steam Deck.
 
-# VS Code Development
-[Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents)
+# Visual Studio and VSCode 
+[Back to the Top](#table-of-contents)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/171919431-729ff449-fe7c-499d-8a21-d722a42eb7e5.png">
+<br />
+</p>
+
+ - [Setting Up Visual Studio for Unreal Engine 5](https://docs.unrealengine.com/5.0/en-US/setting-up-visual-studio-development-environment-for-cplusplus-projects-in-unreal-engine/)
+ 
+ - [Visual Studio Tips and Tricks for Unreal Engine](https://docs.unrealengine.com/5.0/en-US/visual-studio-tips-and-tricks-in-unreal-engine/)
+ 
+ - [Compiling Game Projects in Visual Studio](https://docs.unrealengine.com/5.0/en-US/compiling-game-projects-in-unreal-engine-using-cplusplus/)
+ 
+
+[Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
+
+[VSExtensibility](https://github.com/microsoft/VSExtensibility) is a repo for upcoming changes to extensibility in Visual Studio, the new extensibility model, and [Language Server Protocol(LSP)](https://github.com/microsoft/VSExtensibility/blob/main/docs/lsp/lsp-extensions-specifications.md). 
+
+[Visual Studio Documentation](https://docs.microsoft.com/en-us/visualstudio/windows/)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/171919459-9e437c54-0d1e-4e85-bae1-efd8fc21859c.png">
+<br />
+Visual Studio
+</p>
+
+[Visual Studio Marketplace](https://marketplace.visualstudio.com) is a marketplace for all extensions for Visual Studio, Azure DevOps Services, Azure DevOps Server and Visual Studio Code.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/171919464-2e0c6a3c-70a5-493e-9aec-2e66c7b73498.png">
+<br />
+Visual Studio Marketplace
+</p>
+
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/140833078-77973dcf-d3a6-421f-b6a7-b6e63fb1e97c.png">
   <br />
 </p>
-
-## Getting Started with VS Code
 
 [Visual Studio Code](https://code.visualstudio.com) is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (such as C++, C#, Java, Python, PHP, Go) and runtimes (such as .NET and Unity).
 
@@ -373,14 +403,13 @@ PlayStation VR 2 Headset. Source: [PlayStation](https://www.playstation.com/en-u
 VS Code
 </p>
 
-[Visual Studio Marketplace](https://marketplace.visualstudio.com/VSCode) is a marketplace for all extensions for Visual Studio, Azure DevOps Services, Azure DevOps Server and Visual Studio Code.
+[Visual Studio Code Marketplace](https://marketplace.visualstudio.com/VSCode) is a marketplace for all extensions for Visual Studio, Azure DevOps Services, Azure DevOps Server and Visual Studio Code.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/140832440-0247a088-4eeb-4c57-ae7d-90894d56d629.png">
 <br />
 VS Code Marketplace
 </p>
-
 
 [VS Code Documentation](https://code.visualstudio.com/docs)
 
@@ -392,7 +421,59 @@ VS Code Marketplace
 
 [Language Server Protocol (LSP)](https://microsoft.github.io/language-server-protocol/) is a tool that defines the protocol used between an editor or IDE and a language server that provides language features like auto complete, go to definition, find all references.
 
+### Visual Studio Extensions for Developer Productivity
+[Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
+
+**Note:**  [Visual Studio IntelliCode](https://visualstudio.microsoft.com/services/intellicode/) is installed by default with any workload that supports C#, C++, TypeScript/JavaScript, or XAML in Visual Studio 2022.
+  
+ [Visual Assist](https://marketplace.visualstudio.com/items?itemName=WholeTomatoSoftware.VisualAssist) is a productivity tool for C/C++ and C# that improves IDE features related to navigation, refactoring, code generation, and coding assistance along with specific tooling for UE4/UE5.
+  
+ [Resharper](https://marketplace.visualstudio.com/items?itemName=JetBrains.ReSharper) is a popular developer productivity extension for Microsoft Visual Studio. It automates most of what can be automated in your coding routines. It finds compiler errors, runtime errors, redundancies, and code smells right as you type, suggesting intelligent corrections for them.
+    
+ [Visual Studio Live Share](https://visualstudio.microsoft.com/services/live-share/) is an extension that provides a collection of extensions that enable real-time collaborative development with VS Live Share.
+    
+ [Visual Studio Spell Checker](https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2022andLater) is an editor extension that checks the spelling of comments, strings, and plain text as you type or interactively with a tool window. It can also spell check an entire solution, project, or selected items. 
+    
+ [GitHub Extensions for Visual Studio](https://marketplace.visualstudio.com/items?itemName=GitHub.GitHubExtensionforVisualStudio) is a Visual Studio Extension that brings the GitHub Flow into Visual Studio.
+    
+ [REST API Client Code Generator](https://marketplace.visualstudio.com/items?itemName=ChristianResmaHelle.ApiClientCodeGenerator) is a collection of Visual Studio C# custom tool code generators for Swagger / OpenAPI specification files.
+    
+ [Code Maid](https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaid) is an open source Visual Studio extension to cleanup and simplify our C#, C++, F#, VB, PHP, PowerShell, R, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding.
+    
+ [VS Color Output](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput)  is an extension for Visual Studio. This extension is a color output for build and debug windows.
+    
+ [Visual Studio Theme Pack](https://marketplace.visualstudio.com/items?itemName=idex.vsthemepack) is a collection of popular themes, now available for Visual Studio.
+    
+ [Markdown Editor](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor2) is afull featured Markdown editor with live preview and syntax highlighting. Supports GitHub flavored Markdown.
+    
+ [SQLite and SQL Server Compact Toolbox](https://marketplace.visualstudio.com/items?itemName=ErikEJ.SQLServerCompactSQLiteToolbox) is an extension for Visual Studio. This extension adds several features to help your embedded database development efforts: Scripting of tables and data, import from SQL Server and CSV files and much, much more.
+ 
+ [NuGet Package Manager](https://marketplace.visualstudio.com/items?itemName=NuGetTeam.NuGetPackageManager) collection of tools to automate the process of downloading, installing, upgrading, configuring, and removing packages from a VS Project.
+    
+ [SlowCheetah](https://marketplace.visualstudio.com/items?itemName=vscps.SlowCheetah-XMLTransforms) is a package allows you to automatically transform your app.config (or any file) when you press F5 in Visual Studio. You can have different transformations based on the build configuration. This will enable you to easily have different app settings, connection strings, etc for Debug versus Release. 
+    
+ [Roslynator](https://marketplace.visualstudio.com/items?itemName=josefpihrt.Roslynator2022) is a collection of 500+ analyzers, refactorings and fixes for C#, powered by Roslyn.
+    
+ [Trailing Whitespace Visualizer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespaceVisualizer) is an  extension will highlight and remove any trailing whitespace on any line in any editor in Visual Studio. This makes it really easy to get rid of those annoying invisible characters.
+    
+ [Magical C# Debugging—OzCode](https://marketplace.visualstudio.com/items?itemName=CodeValueLtd.OzCode) is a must have Visual Studio Extension which cuts down on debugging time and increases productivity by detecting and isolating bugs, making them easy to fix.
+    
+ [File Icons](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons) is an extension that adds file icons to Solution Explorer for files that Visual Studio doesn't provide icons for.
+ 
+ [Image Optimizer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ImageOptimizer) is an extension that uses industry standard tools to optimize any JPEG, PNG and Gifs - including animated Gifs. It can do both lossy and lossless optimization.
+ 
+ [File Nesting](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileNesting) is an extension that automatically nest files based on file name and enables developers to nest and unnest any file manually.
+      
+ [NCrunch for Visual Studio](https://marketplace.visualstudio.com/items?itemName=NCrunch.NCrunchforVisualStudio) is an automated parallel continuous testing tool for Visual Studio .NET. It intelligently takes responsibility for running automated tests so that you don't have to, and it gives you a huge amount of useful information about your tests (such as code coverage and performance metrics) inline in your IDE while you work.
+    
+ [SideWaffle Template Pack](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.SideWaffleTemplatePack) is an extension that contains both item and project templates suitable for building websites, Windows apps, Windows Phone apps, WPF, Visual Studio extensibilty project and a lot more.  
+ 
+ [PostSharp](https://marketplace.visualstudio.com/items?itemName=PostSharpTechnologies.PostSharp) is the #1 pattern-aware extension to C# and VB. It allows developers to eradicate boilerplate. Implements some of the most common patterns and gives you the tools to build your own.
+    
+
 ### VS Code Extensions for Developer Productivity
+
+[Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
 
 [Visual Studio Live Share](https://visualstudio.microsoft.com/services/live-share/) is a service/ extension that enables you to collaboratively edit and debug with others in real time, regardless of the programming languages you're using or app types you're building. You can instantly and securely share your current project, start a joint debugging session, share terminal instances, forward localhost web apps, have voice calls, and more.
 
@@ -465,14 +546,16 @@ VS Code Marketplace
 
 ## Getting Started with Xcode
 
-[Apple Developer Documentation for Xcode](https://developer.apple.com/documentation/xcode)
+- [Compiling Game Projects in Xcode](https://docs.unrealengine.com/5.0/en-US/compiling-game-projects-in-unreal-engine-using-cplusplus/)
 
-[Xcode](https://developer.apple.com/xcode/) includes everything developers need to create great applications for Mac, iPhone, iPad, Apple TV, and Apple Watch. Xcode provides developers a unified workflow for user interface design, coding, testing, and debugging. Xcode 12 is built as an Universal app that runs 100% natively on Intel-based CPUs and Apple Silicon. It includes a unified macOS SDK that features all the frameworks, compilers, debuggers, and other tools you need to build apps that run natively on Apple Silicon and the Intel x86_64 CPU.
+- [Apple Developer Documentation for Xcode](https://developer.apple.com/documentation/xcode)
+
+[Xcode](https://developer.apple.com/xcode/) includes everything developers need to create great applications for Mac, iPhone, iPad, Apple TV, and Apple Watch. Xcode provides developers a unified workflow for user interface design, coding, testing, and debugging. Xcode 14 is built as an Universal app that runs 100% natively on Intel-based CPUs and Apple Silicon. It includes a unified macOS SDK that features all the frameworks, compilers, debuggers, and other tools you need to build apps that run natively on Apple Silicon and the Intel x86_64 CPU.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/110880054-dd9fb700-8292-11eb-9478-a5d62dc76f9d.png">
 <br />
-Developing with SwiftUI in Xcode 12
+Developing with SwiftUI in Xcode 14
 </p>
 
 [Xcode Cloud](https://developer.apple.com/xcode-cloud/) is a continuous integration and delivery service built into Xcode and designed expressly for Apple developers. It accelerates the development and delivery of high-quality apps by bringing together cloud-based tools that help you build apps, run automated tests in parallel, deliver apps to testers, and view and manage user feedback.
