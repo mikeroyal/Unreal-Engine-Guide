@@ -153,6 +153,24 @@
 
 ### Developer Resources
 
+**Note:** you will need to create an Epic Games account to download Unreal Engine.
+
+ - [Sign-up for Epic Games Acount](https://www.epicgames.com/account/password)
+ 
+ - [Sign-up for Epic Games GitHub](https://github.com/EpicGames/Signup)
+ 
+ - [Windows Development Requirements for Unreal Engine](https://docs.unrealengine.com/5.0/en-US/hardware-and-software-specifications-for-unreal-engine/)
+ 
+ - [macOS Development Requirements for Unreal Engine](https://docs.unrealengine.com/5.0/en-US/hardware-and-software-specifications-for-unreal-engine/)
+ 
+ - [Linux Development Requirements for Unreal Engine](https://docs.unrealengine.com/5.0/en-US/linux-development-requirements-for-unreal-engine/)
+ 
+ - [iOS, iPadOS, and tvOS Development on Unreal Engine](https://docs.unrealengine.com/5.0/en-US/ios-ipados-and-tvos-support-for-unreal-engine/)
+ 
+ - [Android Development on Unreal Engine](https://docs.unrealengine.com/5.0/en-US/android-support-for-unreal-engine)
+ 
+ - [XR Development on Unreal Engine](https://docs.unrealengine.com/5.0/en-US/developing-for-xr-experiences-in-unreal-engine)
+
  - [Setting Up Visual Studio for Unreal Engine](https://docs.unrealengine.com/en-us/Programming/Development/VisualStudioSetup)
 
  - [Unreal Engine Performance and Profiling](https://docs.unrealengine.com/5.0/en-US/TestingAndOptimization/PerformanceAndProfiling/)
