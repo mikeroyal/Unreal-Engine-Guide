@@ -458,7 +458,7 @@ VS Code Marketplace
 [Language Server Protocol (LSP)](https://microsoft.github.io/language-server-protocol/) is a tool that defines the protocol used between an editor or IDE and a language server that provides language features like auto complete, go to definition, find all references.
 
 ### Visual Studio Extensions for Developer Productivity
-[Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
+[Back to the Top](#table-of-contents)
 
 **Note:**  [Visual Studio IntelliCode](https://visualstudio.microsoft.com/services/intellicode/) is installed by default with any workload that supports C#, C++, TypeScript/JavaScript, or XAML in Visual Studio 2022.
   
@@ -509,7 +509,7 @@ VS Code Marketplace
 
 ### VS Code Extensions for Developer Productivity
 
-[Back to the Top](https://github.com/mikeroyal/Windows-11-Guide#table-of-contents)
+[Back to the Top](#table-of-contents)
 
 [Visual Studio Live Share](https://visualstudio.microsoft.com/services/live-share/) is a service/ extension that enables you to collaboratively edit and debug with others in real time, regardless of the programming languages you're using or app types you're building. You can instantly and securely share your current project, start a joint debugging session, share terminal instances, forward localhost web apps, have voice calls, and more.
 
