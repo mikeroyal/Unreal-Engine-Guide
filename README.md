@@ -28,6 +28,8 @@
     - [Nintendo Switch](https://github.com/mikeroyal/Unreal-Engine-Guide#nintendo-switch-development)
       
     - [Steam Deck](https://github.com/mikeroyal/Unreal-Engine-Guide#steam-deck-development)
+    
+    - [Linux](https://github.com/mikeroyal/Unreal-Engine-Guide#linux-development)
 
 2. [Visual Studio and VSCode](#visual-studio-and-vscode)
 
@@ -390,6 +392,42 @@ PlayStation VR 2 Headset. Source: [PlayStation](https://www.playstation.com/en-u
 [ReplaySorcery](https://github.com/matanui159/ReplaySorcery) is an open-source, instant-replay solution for Linux.
 
 [Deck Verified](https://www.steamdeck.com/en/verified) is a program that reviews games in Steam's catalog verifying their compatibility with the Steam Deck. So when you visit your Library on Steam Deck, you’ll find a compatibility badge on each title, reflecting the kind of experience you can expect when playing each game on Steam Deck.
+
+## Linux Development
+
+[Back to the Top](#table-of-contents)
+
+**Quick links to Development Resources**
+
+ - [Sign-up for Epic Games Acount](https://www.epicgames.com/account/password)
+ 
+ - [Sign-up for Epic Games GitHub](https://github.com/EpicGames/Signup)
+ 
+ - [Linux Development Requirements for Unreal Engine](https://docs.unrealengine.com/5.0/en-US/linux-development-requirements-for-unreal-engine/)
+ 
+ - [Unreal Engine Performance and Profiling](https://docs.unrealengine.com/5.0/en-US/TestingAndOptimization/PerformanceAndProfiling/)
+ 
+ - [Unreal Engine Blueprint API Reference](https://docs.unrealengine.com/5.0/en-US/BlueprintAPI/index.html)
+
+ - [Unreal Engine C++ API Reference](https://docs.unrealengine.com/5.0/en-US/API/index.html)
+
+ - [Unreal Engine Python API Reference](https://docs.unrealengine.com/5.0/en-US/PythonAPI/index.html)
+ 
+### Installing Unreal Engine on Linux
+
+**The easiest way to install Unreal Engine 5 on your Linux is using the Epic Asset Manager that's availble on FlatHub.**
+
+[Epic Asset Manager](https://flathub.org/apps/details/io.github.achetagames.epic_asset_manager) is an unofficial client to install [Unreal Engine](https://www.unrealengine.com/), download and manage purchased assets, projects, plugins and games from the [Epic Games Store](https://www.unrealengine.com/marketplace?lang=en-US).
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/180886562-ef6aa63d-8117-4719-9af1-e25108042c2c.png">
+<br />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/180886564-3ebc8ecb-e2c0-4e53-9f45-f986bd24a89d.png">
+<br />
+</p>
 
 # Visual Studio and VSCode 
 [Back to the Top](#table-of-contents)
