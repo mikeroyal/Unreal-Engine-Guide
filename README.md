@@ -415,7 +415,7 @@ PlayStation VR 2 Headset. Source: [PlayStation](https://www.playstation.com/en-u
  
 ### Installing Unreal Engine on Linux
 
-**The easiest way to install Unreal Engine 5 on your Linux is using the Epic Asset Manager that's availble on FlatHub.**
+The easiest way to install Unreal Engine 5 on your Linux system is using the Epic Asset Manager that's availble on [FlatHub](https://flathub.org/) as a [Flatpak](https://flatpak.org). If you don't have Flatpak installed on your Linux system follow these [simple instructions to get started](https://flatpak.org/setup/).
 
 [Epic Asset Manager](https://flathub.org/apps/details/io.github.achetagames.epic_asset_manager) is an unofficial client to install [Unreal Engine](https://www.unrealengine.com/), download and manage purchased assets, projects, plugins and games from the [Epic Games Store](https://www.unrealengine.com/marketplace?lang=en-US).
 
