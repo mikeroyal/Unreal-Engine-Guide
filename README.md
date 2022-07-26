@@ -403,6 +403,8 @@ PlayStation VR 2 Headset. Source: [PlayStation](https://www.playstation.com/en-u
  
  - [Sign-up for Epic Games GitHub](https://github.com/EpicGames/Signup)
  
+ - [Unreal Engine 5 Linux Binary Download](https://www.unrealengine.com/en-US/linux)
+ 
  - [Linux Development Requirements for Unreal Engine](https://docs.unrealengine.com/5.0/en-US/linux-development-requirements-for-unreal-engine/)
  
  - [Unreal Engine Performance and Profiling](https://docs.unrealengine.com/5.0/en-US/TestingAndOptimization/PerformanceAndProfiling/)
@@ -412,6 +414,10 @@ PlayStation VR 2 Headset. Source: [PlayStation](https://www.playstation.com/en-u
  - [Unreal Engine C++ API Reference](https://docs.unrealengine.com/5.0/en-US/API/index.html)
 
  - [Unreal Engine Python API Reference](https://docs.unrealengine.com/5.0/en-US/PythonAPI/index.html)
+ 
+ - [Unreal Engine for Education](https://www.unrealengine.com/en-US/education/)
+
+ - [Unreal Engine Training & Simulation](https://www.unrealengine.com/en-US/industry/training-simulation)
  
 ### Installing Unreal Engine on Linux
 
