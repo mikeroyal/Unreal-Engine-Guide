@@ -2721,6 +2721,8 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Infer](https://fbinfer.com/) is a static analysis tool for Java, C++, Objective-C, and C. Infer is written in [OCaml](https://ocaml.org/).
 
+[Rider] (https://www.jetbrains.com/rider/) is a .NET IDE that also have integration for Unreal Engine and C++ made by Jetbrains.
+
 # Python Development
 [Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents)
 
