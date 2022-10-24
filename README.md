@@ -2673,6 +2673,8 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [AppCode](https://www.jetbrains.com/objc/) is constantly monitoring the quality of your code. It warns you of errors and smells and suggests quick-fixes to resolve them automatically. AppCode provides lots of code inspections for Objective-C, Swift, C/C++, and a number of code inspections for other supported languages. All code inspections are run on the fly.
 
+[JetBrains Fleet](https://www.jetbrains.com/fleet/) is a IDE(Integrated Development Environment) that uses the IntelliJ code-processing engine, with a distributed IDE architecture. It's available on macOS, Windows, or Linux.
+
 [CLion](https://www.jetbrains.com/clion/features/) is a cross-platform IDE for C and C++ developers developed by JetBrains.
 
 [Code::Blocks](https://www.codeblocks.org/) is a free C/C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable. Built around a plugin framework, Code::Blocks can be extended with plugins.
