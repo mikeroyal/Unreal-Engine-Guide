@@ -182,6 +182,12 @@
  
  - [Sign-up for Epic Games GitHub](https://github.com/EpicGames/Signup)
  
+ - [Unreal Engine 5.1 Documentation](https://docs.unrealengine.com/5.1/)
+
+ - [Learning Library For Unreal Engine & MetaHuman](https://dev.epicgames.com/community/learning?application=unreal_engine)
+  
+ - [Learning Library For RealityScan & RealityCapture](https://dev.epicgames.com/community/learning?application=capturing_reality)
+ 
  - [Windows Development Requirements for Unreal Engine](https://docs.unrealengine.com/5.0/en-US/hardware-and-software-specifications-for-unreal-engine/)
  
  - [macOS Development Requirements for Unreal Engine](https://docs.unrealengine.com/5.0/en-US/hardware-and-software-specifications-for-unreal-engine/)
