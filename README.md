@@ -1035,6 +1035,8 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 
 [Metal](https://developer.apple.com/metal/) is a low-level API that provides a platform-optimized, low-overhead API for developing the latest 3D pro applications and amazing games using a rich shading language with tighter integration between graphics and compute programs. To help you do more while managing ever more complex shader code, Metal adds an unparalleled suite of advanced GPU debugging tools to help you realize the full potential of your graphics code.
 
+[Metal 3](https://developer.apple.com/metal/) is Apple's newest graphics API that introduces advanced features and compiler tools to load resources faster, compile shader binaries at build time, process complex geometry with mesh shaders, render high-resolution graphics in less time, train machine learning networks faster, and more. 
+
 [Apple Developer Documentation](https://developer.apple.com/documentation)
 
 [MetalKit](https://developer.apple.com/documentation/metalkit/)
@@ -1060,6 +1062,22 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 [Metal Developer discussions](https://developer.apple.com/forums/tags/metal/)
 
 ## Metal Tools, Libraries, and Frameworks
+
+[MTLDevice](https://developer.apple.com/documentation/metal/mtldevice) is the Metal interface to a GPU that you use to draw graphics or do parallel computation.
+
+[Metal-cpp](https://developer.apple.com/metal/cpp/)  is a low-overhead C++ interface for Metal that helps you add Metal functionality to graphics apps, games, and game engines that are written in C++. [Sample Code](https://developer.apple.com/metal/LearnMetalCPP.zip)
+
+[Metal plugin for TensorFlow](https://developer.apple.com/metal/tensorflow-plugin/) is a TensorFlow-Metal PluggableDevice that adds improvements to machine learning training with new operations accelerated on GPU, custom operations, and distributed training support.
+
+[MetalFX](https://developer.apple.com/videos/play/wwdc2022/10103/) is a new API that provides platform optimized graphics effects for Metal applications. With MetalFX Upscaling, your application can now render frames at a lower resolution, reducing rendering time, without compromising rendering quality. We'll also show you how and when to use its two effects: spatial upscaling, which delivers substantial performance gains, and temporal AA and upscaling, which delivers the highest quality rendering.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/172254747-9308be59-4d79-4677-a5ec-cf40f5762cf7.png">
+  <br />
+ MetalFX Rendering. Credit: Apple
+</p>
+
+[MetalPetal](https://github.com/MetalPetal/MetalPetal) is a GPU accelerated image and video processing framework based on Metal designed to provide real-time processing for still image and video with easy to use programming interfaces.
 
 [Apple Foundation Framework](https://developer.apple.com/documentation/foundation) is a framework provides a base layer of functionality for apps and frameworks, including data storage and persistence, text processing, date and time calculations, sorting and filtering, and networking. The classes, protocols, and data types defined by Foundation are used throughout the macOS, iOS, watchOS, and tvOS SDKs.
 
