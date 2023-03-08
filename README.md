@@ -260,6 +260,33 @@
 
  - [Game Design and Development Specialization Course from Coursera](https://www.coursera.org/specializations/game-development)
  
+ ### Unreal Engine 5 Books
+
+ * [Unreal Engine 5 for Beginners: Dive into the world of game development with Unreal Engine 5 to build amazing 3D games by Sargey Rose](https://www.amazon.com/Unreal-Engine-Beginners-development-amazing/dp/1800568088)
+
+ * [Blueprints Visual Scripting for Unreal Engine 5: Unleash the true power of Blueprints to create impressive games and applications in UE5, 3rd Edition by by Marcos Romero, Brenden Sewell, Luis Cataldi](https://www.amazon.com/Blueprints-Visual-Scripting-Unreal-Engine/dp/180181158X/) 
+
+ * [Unreal Engine 5 Character Creation, Animation, and Cinematics: Create custom 3D assets and bring them to life in Unreal Engine 5 using MetaHuman, Lumen, and Nanite by Henk Venter, Wilhelm Ogterop](https://www.amazon.com/Unreal-Character-Creation-Animation-Cinematics/dp/1801812446/) 
+
+ * [Elevating Game Experiences with Unreal Engine 5: Bring your game ideas to life using the new Unreal Engine 5 and C++, 2nd Edition by Goncalo Marques, Devin Sherry, David Pereira, Hammad Fozi](https://www.amazon.com/Elevating-Game-Experiences-Unreal-Engine/dp/1803239867/) 
+
+ * [Unreal Engine 5 RPG Development with C++ and Blueprint: Volume I: Basics, Combat, and VFX by Dr. Chihming Chiu](https://www.amazon.com/Unreal-Engine-RPG-Development-Blueprint/dp/B0BHC586PM/r) 
+
+ * [Build Stunning Real-time VFX with Unreal Engine 5: Start your journey into Unreal particle systems to create realistic visual effects using Niagara by Hrishikesh Andurlekar](https://www.amazon.com/Build-Stunning-Real-time-Unreal-Engine/dp/1801072418/) 
+
+ * [Game Development Patterns with Unreal Engine 5: Build maintainable and scalable systems with C++ and Blueprint by Stuart Butler , Tom Oliver](https://www.amazon.com/Game-Development-Patterns-Unreal-Engine/dp/1803243252/) 
+
+ * [Unreal Engine 5 Shaders and Effects Cookbook: Over 70 recipes for creating materials and advanced shading techniques, 2nd Edition by Brais Brenlla Ramos](https://www.amazon.com/Unreal-Engine-Shaders-Effects-Cookbook/dp/1837633088/) 
+
+ * [Game Development with Unreal Engine 5: Learn the Basics of Game Development in Unreal Engine 5 by by Mitchell Lynn, Cliff Sharif](https://www.amazon.com/Game-Development-Unreal-Engine-English/dp/9355513445/) 
+
+ * [Unreal Engine C++ the Ultimate Developer's Handbook: Learn C++ and Unreal Engine by Creating a Complete Action Game by Stephen Seth Ulibarri](https://www.amazon.com/Unreal-Engine-Ultimate-Developers-Handbook/dp/B089M2H7J1/) 
+
+ * [Unreal Engine from Zero to Proficiency (Foundations): A Step-by-step guide to your first game with Unreal Engine by Patrick Felicia](https://www.amazon.com/Unreal-Engine-Proficiency-Foundations-Step/dp/B0B6XJDR3K/) 
+
+ * [Reimagining Characters with Unreal Engine's MetaHuman Creator: Elevate your films with cinema-quality character designs and motion capture animation by Brian Rossney, Ciaran Kavanagh](https://www.amazon.com/Reimagining-characters-Unreal-MetaHuman-Creator/dp/1801817723/) 
+ 
+ 
 ## Xbox Development
 [Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents)
 
