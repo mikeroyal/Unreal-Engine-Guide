@@ -168,6 +168,8 @@
 
 [Replay System](https://docs.unrealengine.com/5.0/en-US/TestingAndOptimization/ReplaySystem/) is a tool which can record gameplay for later viewing. This feature is available in all games, from live, multiplayer games played on dedicated servers, to single-player games, and even including Play-In-Editor sessions. At a high level, the Replay system works by using a DemoNetDriver to read data drawn from the built-in replication system, similar to how a NetDriver operates in a live, networked gameplay environment.
 
+[Take Recorder](https://docs.unrealengine.com/5.0/en-US/record-gameplay-in-unreal-engine/) is a tool that enables the fast iteration of recording performances and quickly reviewing previous takes for virtual production workflows. You can easily record animations from motion capture linked to characters in the level, as well as actual Live Link data for future playback. 
+
 [Cesium for Unreal](https://cesium.com/cesium-for-unreal/) is a tool that brings the 3D geospatial ecosystem to Unreal Engine. By combining a high-accuracy full-scale WGS84 globe, open APIs and open standards for spatial indexing such as 3D Tiles, and cloud-based real-world content from Cesium ion with Unreal Engine, this project enables a new era of 3D geospatial software.
 
 [Unreal Engine Live-streaming Toolkit](https://offworld.live/products/unreal-engine-live-streaming-toolkit) is a Live-streaming Toolkit for  video, alpha and audio (Viewport, Cinecam, 360 Camera) via RTMP/ RTSP/ SRT/ NDI/ Spout/ Virtual Webcam plus direct display and window capture. [Available in Unreal Marketplace](https://www.unrealengine.com/marketplace/en-US/product/directx-12-livestream-to-spout-obs-no-capture-card-ndi-required)
