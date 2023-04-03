@@ -174,6 +174,16 @@
 
 [Unreal Engine Live-streaming Toolkit](https://offworld.live/products/unreal-engine-live-streaming-toolkit) is a Live-streaming Toolkit for  video, alpha and audio (Viewport, Cinecam, 360 Camera) via RTMP/ RTSP/ SRT/ NDI/ Spout/ Virtual Webcam plus direct display and window capture. [Available in Unreal Marketplace](https://www.unrealengine.com/marketplace/en-US/product/directx-12-livestream-to-spout-obs-no-capture-card-ndi-required)
 
+[Substance 3D](https://substance3d.adobe.com/plugins/substance-in-unreal-engine/) is a plugin that enables the use of Substance materials directly in Unreal Engine 5 and Unreal Engine 4. Whether you are working on games, visualization and or deploying across mobile, desktop, or XR, Substance delivers a unique experience with optimized features for enhanced productivity. The runtime currently works for Windows, Mac, and Linux.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/229640938-787dda6c-c50b-45e6-9431-9a0b585d6475.jpeg">
+  <br />
+  Substance 3D
+</p>
+
+Image Credit: [Adobe](https://substance3d.adobe.com/plugins/substance-in-unreal-engine/)
+
 ## Unreal Engine Learning Resources
 
 [How to migrate your Unreal Engine 4 projects to Unreal Engine 5 Early Access quickly and smoothly](https://docs.unrealengine.com/5.0/en-US/MigrationGuide/)
