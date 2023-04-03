@@ -304,8 +304,6 @@
  
  - [Xbox game development - Game Stack | Microsoft Docs](https://docs.microsoft.com/en-us/gaming/xbox/)
  
- - [Get Xbox Dev Mode - Microsoft Store](https://www.microsoft.com/en-us/p/xbox-dev-mode/9nljhzjrn0f4)
- 
  - [Multi-platform development - Unreal Engine](https://www.unrealengine.com/en-US/features/multi-platform-development)
  
  - [Tips for developing console games (Xbox, PlayStation, Nintendo)](https://unity.com/how-to/develop-console-video-games-unity)
