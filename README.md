@@ -174,6 +174,8 @@
 
 [Unreal Engine Live-streaming Toolkit](https://offworld.live/products/unreal-engine-live-streaming-toolkit) is a Live-streaming Toolkit for  video, alpha and audio (Viewport, Cinecam, 360 Camera) via RTMP/ RTSP/ SRT/ NDI/ Spout/ Virtual Webcam plus direct display and window capture. [Available in Unreal Marketplace](https://www.unrealengine.com/marketplace/en-US/product/directx-12-livestream-to-spout-obs-no-capture-card-ndi-required)
 
+[HttpGPT](https://github.com/lucoiso/UEHttpGPT/releases) is an Unreal Engine 5 plugin that facilitates integration with OpenAI's GPT based services (ChatGPT and DALL-E) through asynchronous REST requests, making it easy for developers to communicate with these services. It also includes Editor Tools to integrate Chat GPT and DALL-E image generation directly in the Engine.
+
 [Substance 3D](https://substance3d.adobe.com/plugins/substance-in-unreal-engine/) is a plugin that enables the use of Substance materials directly in Unreal Engine 5 and Unreal Engine 4. Whether you are working on games, visualization and or deploying across mobile, desktop, or XR, Substance delivers a unique experience with optimized features for enhanced productivity. The runtime currently works for Windows, Mac, and Linux.
 
 <p align="center">
