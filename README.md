@@ -166,6 +166,8 @@
 
 [Proxy Geometry Tool](https://docs.unrealengine.com/5.0/en-US/TestingAndOptimization/ProxyGeoTool/) is a tool-set that was developed as a way to increase your Unreal Engine 4 (UE4) project's performance while keeping the visual quality of your project uneffected.
 
+[Quixel Megascans](https://quixel.com/megascans) is a massive online scan library of high-resolution, consistent PBR calibrated surface, vegetation and 3D scans, also including desktop applications for managing, mixing and exporting your downloaded scan data.
+
 [Replay System](https://docs.unrealengine.com/5.0/en-US/TestingAndOptimization/ReplaySystem/) is a tool which can record gameplay for later viewing. This feature is available in all games, from live, multiplayer games played on dedicated servers, to single-player games, and even including Play-In-Editor sessions. At a high level, the Replay system works by using a DemoNetDriver to read data drawn from the built-in replication system, similar to how a NetDriver operates in a live, networked gameplay environment.
 
 [Take Recorder](https://docs.unrealengine.com/5.0/en-US/record-gameplay-in-unreal-engine/) is a tool that enables the fast iteration of recording performances and quickly reviewing previous takes for virtual production workflows. You can easily record animations from motion capture linked to characters in the level, as well as actual Live Link data for future playback. 
