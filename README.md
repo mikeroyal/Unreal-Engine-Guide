@@ -164,6 +164,10 @@
 
 [Unreal Engine's VCam system](https://docs.unrealengine.com/5.2/en-US/virtual-cameras-in-unreal-engine/) is a Cine Camera in Unreal Engine that uses a modular component system to manipulate camera data and output the final results to a variety of external output devices. In addition, the Virtual Camera system provides its functionality while in the editor and during Play In Editor (PIE) or Standalone Game mode. 
 
+[PolyEd (PolyGroup Edit)](https://docs.unrealengine.com/5.2/en-US/polymodel-category-in-unreal-engine/#polygroupedit) is a tool that includes a suite of operations for editing a mesh with PolyGroups. Common operations such as Extrude, Bevel, Weld, and Bridge are available. Also included are operations that only work with structured PolyGroups, such as Insert Edge Loop and edge loop/ring selection. 
+ 
+[PolyDef](https://docs.unrealengine.com/5.2/en-US/polymodel-category-in-unreal-engine/#polygroupdeformation) is a tool that dynamically alters the shape of a mesh through its PolyGroups. Deformation is an efficient way to reshape a mesh quickly and create organic geometry. 
+
 [nDisplay](https://docs.unrealengine.com/5.2/en-US/ndisplay-overview-for-unreal-engine/) is a tool in Unreal Engine that describes how multiple computers work together in an nDisplay rendering network.
 
 [Unreal Engine Marketplace](https://unrealengine.com/marketplace/en-US/store) is Unreal Engine's Store that has a library Of Textures, Models, Animations, Tutorials, and More for creating amazing 3D projects and games.
