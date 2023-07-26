@@ -188,7 +188,9 @@
 
 [Cesium for Unreal](https://cesium.com/cesium-for-unreal/) is a tool that brings the 3D geospatial ecosystem to Unreal Engine. By combining a high-accuracy full-scale WGS84 globe, open APIs and open standards for spatial indexing such as 3D Tiles, and cloud-based real-world content from Cesium ion with Unreal Engine, this project enables a new era of 3D geospatial software.
 
-[Unreal Engine Live-streaming Toolkit](https://offworld.live/products/unreal-engine-live-streaming-toolkit) is a Live-streaming Toolkit for  video, alpha and audio (Viewport, Cinecam, 360 Camera) via RTMP/ RTSP/ SRT/ NDI/ Spout/ Virtual Webcam plus direct display and window capture. [Available in Unreal Marketplace](https://www.unrealengine.com/marketplace/en-US/product/directx-12-livestream-to-spout-obs-no-capture-card-ndi-required)
+[Unreal Engine Live-streaming Toolkit](https://offworld.live/products/unreal-engine-live-streaming-toolkit) is a Live-streaming Toolkit for  video, alpha and audio (Viewport, Cinecam, 360 Camera) via RTMP/ RTSP/ SRT/ NDI/ Spout/ Virtual Webcam plus direct display and window capture. [Available in Unreal Marketplace](https://www.unrealengine.com/marketplace/en-US/product/directx-12-livestream-to-spout-obs-no-capture-card-ndi-required).
+
+[FidelityFX Super Resolution 2 for Unreal Engine](https://www.unrealengine.com/marketplace/product/fidelityfx-super-resolution-2) is plugin tool for AMD's open source temporal upscaling solution. It uses cutting-edge temporal algorithms to reconstruct fine geometric and texture detail, producing anti-aliased output from aliased input.
 
 [NVIDIA DLSS 3 for Unreal Engine](https://developer.nvidia.com/rtx/dlss/get-started#ue-version) is a tool that contains both the DLSS Super Resolution Plugin and the DLSS Frame Generation Plugin.
 
