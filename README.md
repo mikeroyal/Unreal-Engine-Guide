@@ -194,6 +194,8 @@
 
 [NVIDIA DLSS 3 for Unreal Engine](https://developer.nvidia.com/rtx/dlss/get-started#ue-version) is a tool that contains both the DLSS Super Resolution Plugin and the DLSS Frame Generation Plugin.
 
+[PySide Layout Tool](https://www.unrealengine.com/marketplace/product/pyside-layout-tool) is a python application built to help Technical Artist and Tool Developers to make quick clean parameter layout with python script support.
+
 [HttpGPT](https://github.com/lucoiso/UEHttpGPT/releases) is an Unreal Engine 5 plugin that facilitates integration with OpenAI's GPT based services (ChatGPT and DALL-E) through asynchronous REST requests, making it easy for developers to communicate with these services. It also includes Editor Tools to integrate Chat GPT and DALL-E image generation directly in the Engine.
 
 [Substance 3D](https://substance3d.adobe.com/plugins/substance-in-unreal-engine/) is a plugin that enables the use of Substance materials directly in Unreal Engine 5 and Unreal Engine 4. Whether you are working on games, visualization and or deploying across mobile, desktop, or XR, Substance delivers a unique experience with optimized features for enhanced productivity. The runtime currently works for Windows, Mac, and Linux.
