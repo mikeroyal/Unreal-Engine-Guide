@@ -190,6 +190,12 @@
 
 [Unreal Engine Live-streaming Toolkit](https://offworld.live/products/unreal-engine-live-streaming-toolkit) is a Live-streaming Toolkit for  video, alpha and audio (Viewport, Cinecam, 360 Camera) via RTMP/ RTSP/ SRT/ NDI/ Spout/ Virtual Webcam plus direct display and window capture. [Available in Unreal Marketplace](https://www.unrealengine.com/marketplace/en-US/product/directx-12-livestream-to-spout-obs-no-capture-card-ndi-required).
 
+[AWS Thinkbox Deadline for Unreal Engine](https://docs.thinkboxsoftware.com/products/deadline/10.3/1_User%20Manual/manual/app-unreal-engine-5.html) is a plugin to integrate and automate Deadline renders from inside the UE Movie Render Queue, allowing customers to streamline the process of connecting AWS Thinkbox Deadline 10.3 and onwards to work originated in UE5. 
+
+[Nanite Spline Meshes (Experimental)](https://portal.productboard.com/epicgames/1-unreal-engine-public-roadmap/c/1155-nanite) is an initial implementation of SplineMeshComponent for Nanite meshes has been introduced. This feature can be enabled by setting ```r.Nanite.AllowSplineMeshes=1``` in a settings ```.ini`` file. WARNING: Enabling this feature currently comes with a performance cost that affects culling performance of all Nanite, and there are currently known issues with incorrect culling under extreme deformation. 
+
+[Orthographic rendering (Experimental)](https://portal.productboard.com/epicgames/1-unreal-engine-public-roadmap/c/1160-orthographic-rendering-experimental)  is a very common way to visualize projects in architecture and manufacturing, and is also used in games as a stylistic camera choice. Multiple areas of the engine have been fixed to achieve parity between perspective and orthographic projections. Most modern features of UE5 should now work, including Lumen, Nanite, Shadows, and TSR. 
+
 [FidelityFX Super Resolution 2 for Unreal Engine](https://www.unrealengine.com/marketplace/product/fidelityfx-super-resolution-2) is plugin tool for AMD's open source temporal upscaling solution. It uses cutting-edge temporal algorithms to reconstruct fine geometric and texture detail, producing anti-aliased output from aliased input.
 
 [NVIDIA DLSS 3 for Unreal Engine](https://developer.nvidia.com/rtx/dlss/get-started#ue-version) is a tool that contains both the DLSS Super Resolution Plugin and the DLSS Frame Generation Plugin.
