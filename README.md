@@ -216,11 +216,16 @@ Image Credit: [Adobe](https://substance3d.adobe.com/plugins/substance-in-unreal-
 
 ## Unreal Engine Learning Resources
 
-[How to migrate your Unreal Engine 4 projects to Unreal Engine 5 Early Access quickly and smoothly](https://docs.unrealengine.com/5.0/en-US/MigrationGuide/)
+* [How to migrate your Unreal Engine 4 projects to Unreal Engine 5 Early Access quickly and smoothly](https://docs.unrealengine.com/5.0/en-US/MigrationGuide/)
 
-[Unreal Engine 5 Documentation](https://docs.unrealengine.com/5.0/)
+* [Unreal Engine 5 Documentation](https://docs.unrealengine.com/5.0/)
 
 [Unreal Engine Forums](https://forums.unrealengine.com/)
+ * [Unreal Engine 5 Public Roadmap](https://portal.productboard.com/epicgames/1-unreal-engine-public-roadmap/tabs/88-unreal-engine-5-3-in-progress)
+ 
+ * [Architecture Design Software & 3D Rendering Visualization Engine - Unreal Engine](https://www.unrealengine.com/en-US/solutions/architecture)
+ 
+ * [Niagara Fluids: Getting Started with 3D Gas Systems](https://dev.epicgames.com/community/learning/tutorials/4Oov/unreal-engine-niagara-fluids-getting-started-with-3d-gas-systems)
 
 ### Developer Resources
 
