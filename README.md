@@ -29,6 +29,10 @@
 
     - [Unreal Engine Learning Resources](https://github.com/mikeroyal/Unreal-Engine-Guide#unreal-engine-learning-resources)
     
+    - [Unreal Engine 5 Books](#unreal-engine-5-books)
+
+    - [YouTube Video Tutorials](#youtube-video-tutorials)
+    
     - [Xbox](https://github.com/mikeroyal/Unreal-Engine-Guide#xbox-development)
       
     - [PlayStation](https://github.com/mikeroyal/Unreal-Engine-Guide#playstation-development)
@@ -39,54 +43,54 @@
     
     - [Linux](https://github.com/mikeroyal/Unreal-Engine-Guide#linux-development)
 
-2. [Visual Studio and VSCode](#visual-studio-and-vscode)
+1. [Visual Studio and VSCode](#visual-studio-and-vscode)
 
     - [Visual Studio Extensions for Developer Productivity](https://github.com/mikeroyal/Unreal-Engine-Guide#Visual-Studio-Extensions-for-Developer-Productivity)
     - [VS Code Extensions for Developer Productivity](https://github.com/mikeroyal/Unreal-Engine-Guide#VS-Code-Extensions-for-Developer-Productivity)
 
-3. [Xcode Development](https://github.com/mikeroyal/Unreal-Engine-Guide#xcode-development)
+2. [Xcode Development](https://github.com/mikeroyal/Unreal-Engine-Guide#xcode-development)
 
-4. [Game Development](https://github.com/mikeroyal/Unreal-Engine-Guide#game-development)
+3. [Game Development](https://github.com/mikeroyal/Unreal-Engine-Guide#game-development)
 
-5. [Augmented Reality (AR) & Virtual Reality (VR)](https://github.com/mikeroyal/Unreal-Engine-Guide#augmented-reality-ar--virtual-reality-vr)
+4. [Augmented Reality (AR) & Virtual Reality (VR)](https://github.com/mikeroyal/Unreal-Engine-Guide#augmented-reality-ar--virtual-reality-vr)
 
-6. [Vulkan Development](https://github.com/mikeroyal/Unreal-Engine-Guide#vulkan-development)
+5. [Vulkan Development](https://github.com/mikeroyal/Unreal-Engine-Guide#vulkan-development)
 
-7. [Metal Development](https://github.com/mikeroyal/Unreal-Engine-Guide#metal-development)
+6. [Metal Development](https://github.com/mikeroyal/Unreal-Engine-Guide#metal-development)
 
-8. [DirectX Development](https://github.com/mikeroyal/Unreal-Engine-Guide#directx-development)
+7. [DirectX Development](https://github.com/mikeroyal/Unreal-Engine-Guide#directx-development)
 
-9. [Computer Vision Development](https://github.com/mikeroyal/Unreal-Engine-Guide#computer-vision-development)
+8. [Computer Vision Development](https://github.com/mikeroyal/Unreal-Engine-Guide#computer-vision-development)
 
-10. [Photogrammetry Development](https://github.com/mikeroyal/Unreal-Engine-Guide#photogrammetry-development)
+9. [Photogrammetry Development](https://github.com/mikeroyal/Unreal-Engine-Guide#photogrammetry-development)
 
-11. [Geometric optics](https://github.com/mikeroyal/Unreal-Engine-Guide#Geometric-optics)
+10. [Geometric optics](https://github.com/mikeroyal/Unreal-Engine-Guide#Geometric-optics)
 
-12. [Autodesk Development](https://github.com/mikeroyal/Unreal-Engine-Guide#autodesk-development)
+11. [Autodesk Development](https://github.com/mikeroyal/Unreal-Engine-Guide#autodesk-development)
 
-13. [LiDAR Development](https://github.com/mikeroyal/Unreal-Engine-Guide#lidar-development)
+12. [LiDAR Development](https://github.com/mikeroyal/Unreal-Engine-Guide#lidar-development)
 
-14. [Linear Algebra](https://github.com/mikeroyal/Unreal-Engine-Guide#linear-algebra)
+13. [Linear Algebra](https://github.com/mikeroyal/Unreal-Engine-Guide#linear-algebra)
 
-15. [Algorithms](https://github.com/mikeroyal/Unreal-Engine-Guide#algorithms)
+14. [Algorithms](https://github.com/mikeroyal/Unreal-Engine-Guide#algorithms)
 
-16. [Machine Learning](https://github.com/mikeroyal/Unreal-Engine-Guide#machine-learning)
+15. [Machine Learning](https://github.com/mikeroyal/Unreal-Engine-Guide#machine-learning)
 
-17. [Deep Learning](https://github.com/mikeroyal/Unreal-Engine-Guide#deep-learning)
+16. [Deep Learning](https://github.com/mikeroyal/Unreal-Engine-Guide#deep-learning)
 
-18. [CUDA Development](https://github.com/mikeroyal/Unreal-Engine-Guide#cuda-development)
+17. [CUDA Development](https://github.com/mikeroyal/Unreal-Engine-Guide#cuda-development)
 
-19. [MATLAB Development](https://github.com/mikeroyal/Unreal-Engine-Guide#matlab-development)
+18. [MATLAB Development](https://github.com/mikeroyal/Unreal-Engine-Guide#matlab-development)
 
-20. [C/C++ Development](https://github.com/mikeroyal/Unreal-Engine-Guide#cc-development)
+19. [C/C++ Development](https://github.com/mikeroyal/Unreal-Engine-Guide#cc-development)
 
-21. [Python Development](https://github.com/mikeroyal/Unreal-Engine-Guide#python-development)
+20. [Python Development](https://github.com/mikeroyal/Unreal-Engine-Guide#python-development)
 
-22. [Lua Development](https://github.com/mikeroyal/Unreal-Engine-Guide#lua-development)
+21. [Lua Development](https://github.com/mikeroyal/Unreal-Engine-Guide#lua-development)
 
-23. [Networking](https://github.com/mikeroyal/Unreal-Engine-Guide#networking)
+22. [Networking](https://github.com/mikeroyal/Unreal-Engine-Guide#networking)
 
-24. [Databases](https://github.com/mikeroyal/Unreal-Engine-Guide#databases)
+23. [Databases](https://github.com/mikeroyal/Unreal-Engine-Guide#databases)
 
 # Getting Started with Unreal Engine
 [Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents)
@@ -341,6 +345,22 @@ Image Credit: [Adobe](https://substance3d.adobe.com/plugins/substance-in-unreal-
 
  * [Reimagining Characters with Unreal Engine's MetaHuman Creator: Elevate your films with cinema-quality character designs and motion capture animation by Brian Rossney, Ciaran Kavanagh](https://www.amazon.com/Reimagining-characters-Unreal-MetaHuman-Creator/dp/1801817723/) 
  
+## YouTube Video Tutorials
+
+[Back to the Top](#table-of-contents)
+
+[![Unreal Engine 5 Beginner Tutorial - UE5 Starter Course](https://ytcards.demolab.com/?id=k-zMkzmduqI&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Unreal Engine 5 Beginner Tutorial - UE5 Starter Course")](https://www.youtube.com/watch?v=k-zMkzmduqI)
+[![How to Create a Game in Unreal Engine 5 - UE5 Beginner Tutorial](https://ytcards.demolab.com/?id=1XjgLKrb4_M&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "How to Create a Game in Unreal Engine 5 - UE5 Beginner Tutorial")](https://www.youtube.com/watch?v=1XjgLKrb4_M)
+[![EVERYTHING NEW IN UNREAL ENGINE 5.3](https://ytcards.demolab.com/?id=FOi1sktOuPg&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "EVERYTHING NEW IN UNREAL ENGINE 5.3")](https://www.youtube.com/watch?v=FOi1sktOuPg)
+[![Unreal Engine 5.3 New Features](https://ytcards.demolab.com/?id=mOpr1aR6xAw&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Unreal Engine 5.3 New Features")](https://www.youtube.com/watch?v=mOpr1aR6xAw) 
+[![Unreal Engine 5 for Architecture - 2023 Full Beginner Course](https://ytcards.demolab.com/?id=bT8aSTkpkDY&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Unreal Engine 5 for Architecture - 2023 Full Beginner Course")](https://www.youtube.com/watch?v=bT8aSTkpkDY)
+[![Future of architectural visualization | Interior and exterior in Unreal Engine 5 | ArhiTeach school](https://ytcards.demolab.com/?id=1NrwktfF2Eo&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Future of architectural visualization | Interior and exterior in Unreal Engine 5 | ArhiTeach school")](https://www.youtube.com/watch?v=1NrwktfF2Eo)
+[![Exploring the Hillside Sample Project with Safdie Architects and Neoscape | Unreal Engine](https://ytcards.demolab.com/?id=D55T_v8039s&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Exploring the Hillside Sample Project with Safdie Architects and Neoscape | Unreal Engine")](https://www.youtube.com/watch?v=D55T_v8039s)
+[![Unreal Engine 5 - Google Maps API & Cesium - Full tutorial PT 1](https://ytcards.demolab.com/?id=TbHCvAo-aGg&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Unreal Engine 5 - Google Maps API & Cesium - Full tutorial PT 1")](https://www.youtube.com/watch?v=TbHCvAo-aGg) 
+[![UNREAL ENGINE 5 vs CORONA which is better for Architectural Rendering?](https://ytcards.demolab.com/?id=8bh3NxJXXEg&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "UNREAL ENGINE 5 vs CORONA which is better for Architectural Rendering?")](https://www.youtube.com/watch?v=8bh3NxJXXEg) 
+[![Unreal Engine 5 Cinematic Photorealistic Architecture Rendering | Complete Tutorial](https://ytcards.demolab.com/?id=Fh6SxqtsReI&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Unreal Engine 5 Cinematic Photorealistic Architecture Rendering | Complete Tutorial")](https://www.youtube.com/watch?v=Fh6SxqtsReI) 
+[![The Blender to Unreal Engine Workflow](https://ytcards.demolab.com/?id=N8y_eH7QB2o&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "The Blender to Unreal Engine Workflow")](https://www.youtube.com/watch?v=N8y_eH7QB2o) 
+[![15 Recent Graphically Stunning Unreal Engine 5 Demos YOU NEED TO CHECK OUT](https://ytcards.demolab.com/?id=LyvuadJyX8k&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "15 Recent Graphically Stunning Unreal Engine 5 Demos YOU NEED TO CHECK OUT")](https://www.youtube.com/watch?v=LyvuadJyX8k)
  
 ## Xbox Development
 [Back to the Top](https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents)
