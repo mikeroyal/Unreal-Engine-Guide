@@ -349,6 +349,10 @@ Image Credit: [Adobe](https://substance3d.adobe.com/plugins/substance-in-unreal-
 
 [Back to the Top](#table-of-contents)
 
+[![Unreal Engine 5.3 Feature Highlights](https://ytcards.demolab.com/?id=b4_msnAbJtk&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Unreal Engine 5.3 Feature Highlights")](https://www.youtube.com/watch?v=b4_msnAbJtk)
+[![Why Unreal Engine 5.3 is a BIG Deal](https://ytcards.demolab.com/?id=POwTaVZ_CA0&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Why Unreal Engine 5.3 is a BIG Deal")](https://www.youtube.com/watch?v=POwTaVZ_CA0)
+[![Unreal Engine 5 Beginner Tutorial - UE5 Starter Course 2023 ](https://ytcards.demolab.com/?id=gHnnAB2bxK0&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Unreal Engine 5 Beginner Tutorial - UE5 Starter Course 2023 ")](https://www.youtube.com/watch?v=gHnnAB2bxK0)
+[![Capturing the World’s OLDEST Stave Church in Unreal Engine 5](https://ytcards.demolab.com/?id=B5hBBFM2I_w&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Capturing the World’s OLDEST Stave Church in Unreal Engine 5")](https://www.youtube.com/watch?v=B5hBBFM2I_w)
 [![Unreal Engine 5 Beginner Tutorial - UE5 Starter Course](https://ytcards.demolab.com/?id=k-zMkzmduqI&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Unreal Engine 5 Beginner Tutorial - UE5 Starter Course")](https://www.youtube.com/watch?v=k-zMkzmduqI)
 [![How to Create a Game in Unreal Engine 5 - UE5 Beginner Tutorial](https://ytcards.demolab.com/?id=1XjgLKrb4_M&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "How to Create a Game in Unreal Engine 5 - UE5 Beginner Tutorial")](https://www.youtube.com/watch?v=1XjgLKrb4_M)
 [![EVERYTHING NEW IN UNREAL ENGINE 5.3](https://ytcards.demolab.com/?id=FOi1sktOuPg&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "EVERYTHING NEW IN UNREAL ENGINE 5.3")](https://www.youtube.com/watch?v=FOi1sktOuPg)
