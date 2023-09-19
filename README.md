@@ -176,6 +176,8 @@
  
 [PolyDef](https://docs.unrealengine.com/5.2/en-US/polymodel-category-in-unreal-engine/#polygroupdeformation) is a tool that dynamically alters the shape of a mesh through its PolyGroups. Deformation is an efficient way to reshape a mesh quickly and create organic geometry. 
 
+[Paper 2D](https://docs.unrealengine.com/5.0/paper-2d-in-unreal-engine/) is a sprite-based system for creating 2D and 2D/3D hybrid games entirely within the unreal Enginr editor. At the core of Paper 2D are Sprites (which are a Texture Mapped Planar Mesh and associated Material). It can edit Sprites inside Unreal Engine with the Sprite Editor and create sprite-based animations with Flipbooks (which animate a series of Sprites sequentially by using key frames and specifying a duration in frames to display them). 
+
 [nDisplay](https://docs.unrealengine.com/5.2/en-US/ndisplay-overview-for-unreal-engine/) is a tool in Unreal Engine that describes how multiple computers work together in an nDisplay rendering network.
 
 [AWS Thinkbox Deadline for Unreal Engine](https://docs.thinkboxsoftware.com/products/deadline/10.3/1_User%20Manual/manual/app-unreal-engine-5.html) is a plugin to integrate and automate Deadline renders from inside the UE Movie Render Queue, allowing customers to streamline the process of connecting AWS Thinkbox Deadline 10.3 and onwards to work originated in UE5. 
