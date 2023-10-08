@@ -212,6 +212,8 @@
 
 [NVIDIA DLSS 3 for Unreal Engine](https://developer.nvidia.com/rtx/dlss/get-started#ue-version) is a tool that contains both the DLSS Super Resolution Plugin and the DLSS Frame Generation Plugin.
 
+[Houdini Engine for Unreal](https://github.com/sideeffects/HoudiniEngineForUnreal) is a Houdini Engine Plugin for Unreal Engine that brings Houdini's powerful and flexible procedural workflow into Unreal Engine through Houdini Digital Assets. Artists can interactively adjust asset parameters inside the editor and use Unreal assets as inputs. Houdini's procedural engine will then "cook" the asset and the results will be available in the editor without the need for baking.
+
 [PySide Layout Tool](https://www.unrealengine.com/marketplace/product/pyside-layout-tool) is a python application built to help Technical Artist and Tool Developers to make quick clean parameter layout with python script support.
 
 [HttpGPT](https://github.com/lucoiso/UEHttpGPT/releases) is an Unreal Engine 5 plugin that facilitates integration with OpenAI's GPT based services (ChatGPT and DALL-E) through asynchronous REST requests, making it easy for developers to communicate with these services. It also includes Editor Tools to integrate Chat GPT and DALL-E image generation directly in the Engine.
