@@ -249,7 +249,13 @@ Image Credit: [Adobe](https://substance3d.adobe.com/plugins/substance-in-unreal-
  
  - [Sign-up for Epic Games GitHub](https://github.com/EpicGames/Signup)
  
- - [Unreal Engine 5.1 Documentation](https://docs.unrealengine.com/5.1/)
+ - [Unreal Engine 5.3 Documentation](https://docs.unrealengine.com/5.3/)
+   
+ - [Unreal Engine 5.3 Release Notes](https://docs.unrealengine.com/5.3/unreal-engine-5.3-release-notes/)
+ 
+ - [Enabling Temporal Super Resolution support for Orthographic Rendering](https://forums.unrealengine.com/t/enabling-temporal-super-resolution-support-for-orthographic-rendering/1288140)
+
+ - [How to Report a Bug](https://www.unrealengine.com/support/report-a-bug)
 
  - [Learning Library For Unreal Engine & MetaHuman](https://dev.epicgames.com/community/learning?application=unreal_engine)
   
