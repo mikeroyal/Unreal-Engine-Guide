@@ -218,6 +218,8 @@
 
 [HttpGPT](https://github.com/lucoiso/UEHttpGPT/releases) is an Unreal Engine 5 plugin that facilitates integration with OpenAI's GPT based services (ChatGPT and DALL-E) through asynchronous REST requests, making it easy for developers to communicate with these services. It also includes Editor Tools to integrate Chat GPT and DALL-E image generation directly in the Engine.
 
+[DataConfig](https://slowburn.dev/dataconfig/) is a Unreal Engine JSON/MsgPack serialization framework. Unreal Engine features a powerful [Property System](https://www.unrealengine.com/en-US/blog/unreal-property-system-reflection) which implements C++ runtime reflection. DataConfig is a serialization framework build on top of it.
+
 [Substance 3D](https://substance3d.adobe.com/plugins/substance-in-unreal-engine/) is a plugin that enables the use of Substance materials directly in Unreal Engine 5 and Unreal Engine 4. Whether you are working on games, visualization and or deploying across mobile, desktop, or XR, Substance delivers a unique experience with optimized features for enhanced productivity. The runtime currently works for Windows, Mac, and Linux.
 
 <p align="center">
