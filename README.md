@@ -1611,7 +1611,7 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
   <br />
 </p>
 
-**Autodesk® Maya. Source:[Autodesk](https://www.autodesk.com/products/maya/overview)**
+**Autodesk® Maya. Source: [Autodesk](https://www.autodesk.com/products/maya/overview)**
 
 [3DS Max®](https://www.autodesk.com/products/3ds-max/overview) is a 3D modeling and rendering software for design visualization, games, and animation.
 
@@ -1620,7 +1620,7 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
   <br />
 </p>
 
-**Autodesk® 3DS Max. Source:[Autodesk](https://www.autodesk.com/products/3ds-max/overview)**
+**Autodesk® 3DS Max. Source: [Autodesk](https://www.autodesk.com/products/3ds-max/overview)**
 
 [Arnold](https://www.autodesk.com/products/arnold/overview) is an advanced Monte Carlo ray tracing(Global illumination) renderer that helps you work more efficiently.
 
@@ -1635,7 +1635,7 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
   <br />
 </p>
 
-**Autodesk® Mudbox. Source:[Autodesk](https://www.autodesk.com/products/mudbox/overview)**
+**Autodesk® Mudbox. Source: [Autodesk](https://www.autodesk.com/products/mudbox/overview)**
 
 [Character Generator®](https://www.autodesk.com/products/character-generator/overview) is a powerful 3D design and animation tools, Character Generator offers artists a web-based laboratory to create fully rigged 3D characters for animation packages and game engines.
 
@@ -1656,7 +1656,7 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
   <br />
 </p>
 
-**Autodesk® Inventor. Source:[Autodesk](https://www.autodesk.com/products/inventor/overview)**
+**Autodesk® Inventor. Source: [Autodesk](https://www.autodesk.com/products/inventor/overview)**
 
 [Inventor® CAM](https://www.autodesk.com/products/inventor-cam/overview) is an integrated CAM software for Inventor that simplifies CNC programming processes. Such as the machining workflow with CAD-embedded 2.5-axis to 5-axis milling, turning, and mill-turn capabilities.
 
@@ -1675,7 +1675,7 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
   <br />
 </p>
 
-**Autodesk® Navisworks. Source:[Autodesk](https://www.autodesk.com/products/navisworks/overview)**
+**Autodesk® Navisworks. Source: [Autodesk](https://www.autodesk.com/products/navisworks/overview)**
 
 [BIM Collaborate](https://www.autodesk.com/products/bim-collaborate/overview) is cloud-based design collaboration and coordination software that connects AEC teams, helping you execute on design intent and deliver high-quality constructible models on a single platform.
 
@@ -1951,7 +1951,7 @@ The matrix-vector product is used to define the notion of a linear transformatio
   <br />
 </p>
 
-**Elementary matrices for linear transformations in R^2. Source:[Quora](https://www.quora.com/What-is-a-linear-transformation)**
+**Elementary matrices for linear transformations in R^2. Source: [Quora](https://www.quora.com/What-is-a-linear-transformation)**
 
 ### v. Fundamental vector spaces
 
@@ -2171,7 +2171,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
   <br />
 </p>
 
-**Support Vector Machine (SVM). Source:[OpenClipArt](https://openclipart.org/detail/182977/svm-support-vector-machines)**
+**Support Vector Machine (SVM). Source: [OpenClipArt](https://openclipart.org/detail/182977/svm-support-vector-machines)**
 
 [Neural networks](https://www.ibm.com/cloud/learn/neural-networks) are a subset of machine learning and are at the heart of deep learning algorithms. The name/structure is inspired by the human brain copying the process that biological neurons/nodes signal to one another.
 
@@ -2189,7 +2189,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
   <br />
 </p>
 
-**Convolutional Neural Networks. Source:[CS231n](https://cs231n.github.io/convolutional-networks/#conv)**
+**Convolutional Neural Networks. Source: [CS231n](https://cs231n.github.io/convolutional-networks/#conv)**
 
 [Recurrent neural networks (RNNs)](https://www.ibm.com/cloud/learn/recurrent-neural-networks) is a type of artificial neural network which uses sequential data or time series data.
 
@@ -2234,7 +2234,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
   <br />
 </p>
 
-**Bayes' theorem. Source:[mathisfun](https://www.mathsisfun.com/data/bayes-theorem.html)**
+**Bayes' theorem. Source: [mathisfun](https://www.mathsisfun.com/data/bayes-theorem.html)**
 
 
 # Machine Learning
